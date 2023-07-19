@@ -1,0 +1,9 @@
+.card-box{
+    width: 500px;
+}
+
+body{
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
