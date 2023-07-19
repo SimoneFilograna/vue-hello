@@ -3,7 +3,7 @@
 const app = Vue.createApp({
     data(){
         return {
-            messaggio: "FIRST VUE TITLE",
+            messaggio: "ANYONE HERE?",
             para: "WELCOME",
             user: "STRANGER",
             centerText: "text-center mt-4",
